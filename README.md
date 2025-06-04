@@ -1,4 +1,4 @@
-# Simple-Keylogger-in-Python
+# Keylogger-in-Python
 Simple Keylogger in Python - Through which a target's keystrokes are captured and sent to your mailbox
 # 🛡️ Ethical Keylogger for Educational Use
 
